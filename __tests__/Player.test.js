@@ -85,4 +85,4 @@ test("uses a potion from inventory", () => {
   expect(player.inventory.length).toBeLessThan(oldCount);
 });
 
-console.log(new Player("Mira"));
+// console.log(new Player("Mira"));
